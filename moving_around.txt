@@ -1,0 +1,88 @@
+history -r > moving_around.txt 
+subl moving_around.txt 
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+ls -l mov*
+history >> moving_around.txt 
+ls -t mo???????????.txt
+ls -t moving_around.txt 
+ls -t mov*
+ls -t mov 
+ls -t
+top moving_around.txt 
+top moving
+ls -l
+ls
+history > moving_around.txt
+clear
+jobs
+brew doctor
+history | less
+history
+cd
+cd ../.. 
+cd ...
+ls -lt 
+ls -lrt
+cd 
+cd ..
+ls -rt
+ls ~ 
+cd ../../Users/rebeccaganzer/downloads
+cd ../../users/ErisEsoteric/
+cd rebeccaganzer/
+cd ../google
+cd library/Voices/
+cd ../..
+pwd
+	cd ../safari
+	cd ../keychains
+	cd cookies
+	cd library
+		cd fonts
+			cd Desktop/
+			cd documents
+		cd music
+		cd movies
+cd users/ErisEsoteric/
+cd /
+cd/
+ls -i
+man ls
+man
+man 1
+1
+ls -r
+ls -l  
+ls -l -t 
+ls -t 
+clearn
+cd ~
+cd..
+cd City-of-no-sun/
+cd  
+cd n
+curl -fsSL http://git.io/7UHtNA | sh 
+curl -fsSL http://git.io/QxUaOQ | sh 
+git config --global user.email "Lyle.C.Scott@gmail.com"
+git config --global user.name "Lyle Scott"
+brew info fish
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+git version
+brew update
+update
+help
+git help -a
+git help
+git update-ref
+git update
+git status
+git --update
+git --help
+sudo git update
+git
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+uname
