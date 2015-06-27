@@ -1,1 +1,2 @@
 # Ok.... so branches use - like git-notes, but filenames use _ like git_notes. Heh... silly developers. Fine. I won't call you silly.
+Added note by Rick
